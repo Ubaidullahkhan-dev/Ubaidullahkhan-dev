@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ubaidullah khan
+# Hi I'm Ubaidullah khan
 
 ### AI / ML Developer 
 
