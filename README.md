@@ -1,47 +1,31 @@
-# Hi I'm Ubaidullah khan 👋
+Hi 👋 My name is Ubaidullah Khan
+================================
 
-### AI / ML Developer 
+Building Intelligent Systems with ML & DL
+-----------------------------------------
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Ubaidullahkhan-dev&label=Profile views&color=0e75b6&style=flat-square" alt="Ubaidullahkhan-dev" /> 
-</p>
+I've been coding for a few years now, after switching from a non-tech background. I started with foundational programming, but have truly found my passion in the world of ML and Deep Learning architectures.
 
-<!-- GitHub Trophies (Using Working Backup Server) -->
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://vercel.app" alt="Ubaidullahkhan-dev Trophies" />
-  </a> 
-</p>
-
-- 🔭 I'm currently working on **Customer segmentation project**
-- 🌱 I'm currently learning **Deep Learning and Advanced AI**
-- 🤝 I'm looking for help with **AI /ML**
-- 💬 Ask me about **Python, Machine Learning**
-- 📫 How to reach me **uu3513610@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/Ubaidullahkhan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ubaidullahkhan-dev" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ubaid-ullah-7a051a352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ubaid-ullah-7a051a352" height="30" width="40" /></a>
-  <a href="https://kaggle.com/ubaidullahkhan302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ubaidullahkhan302" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="My Skills" />
-  </a>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img align="left" src="https://vercel.app" alt="Ubaidullahkhan-dev Top Languages" />
-</p>
+* 🌍  I'm based in Pakistan
+* 🖥️  See my portfolio at [GitHub](http://github.com/Ubaidullahkhan-dev)
+* ✉️  You can contact me at [uu3513610@gmail.com](mailto:uu3513610@gmail.com)
+* 🧠  I'm currently learning Deep Learning and Advanced AI
+* 👥  I'm looking to collaborate on AI / ML Projects
+* 💬  Ask me about Always excited to solve complex problems and build smart data-driven applications.
 
 <p align="left">
-  <img align="center" src="https://vercel.app" alt="Ubaidullahkhan-dev Stats" />
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a>
 </p>
 
-<p align="left">
-  <img align="center" src="https://herokuapp.com" alt="Ubaidullahkhan-dev Streak" />
-</p>
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Ubaidullahkhan-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ubaid-ullah-7a051a352" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Ubaidullahkhan-dev"><img src="https://github-readme-stats.vercel.app/api?username=Ubaidullahkhan-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ubaidullahkhan-dev's GitHub stats" /></a>
+
+<a href="http://www.github.com/Ubaidullahkhan-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaidullahkhan-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Ubaidullahkhan-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaidullahkhan-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
