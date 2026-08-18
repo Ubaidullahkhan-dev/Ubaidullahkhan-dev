@@ -51,28 +51,28 @@ I've been coding for a few years now, after switching from a non-tech background
 <p align="left">
 
 <a href="https://github.com/Ubaidullahkhan-dev" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ubaid-ullah-7a051a352" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
 </a>
 
 </p>
 
 ---
 
-## 🏆 GitHub Statistics
+# 📊 GitHub Statistics
 
-### 📊 My GitHub Stats
+## 💻 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Ubaidullah's GitHub Stats"/>
+  <img src="./profile/stats.svg" alt="GitHub Stats"/>
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak"/>
@@ -80,7 +80,7 @@ I've been coding for a few years now, after switching from a non-tech background
 
 ---
 
-### 💻 Top Languages
+## 🧠 Top Languages
 
 <p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages"/>
