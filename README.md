@@ -62,36 +62,28 @@ I've been coding for a few years now, after switching from a non-tech background
 
 ---
 
-## 🏆 Badges
+## 🏆 GitHub Statistics
 
 ### 📊 My GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ubaidullahkhan-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ubaidullah's GitHub Stats"/>
-
+  <img src="./profile/stats.svg" alt="Ubaidullah's GitHub Stats"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <p align="center">
-
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com/?user=Ubaidullahkhan-dev&theme=dark&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
-</a>
-
+  <img src="./profile/streak.svg" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 💻 Top Languages
+### 💻 Top Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaidullahkhan-dev&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages"/>
-
+  <img src="./profile/top-langs.svg" alt="Top Languages"/>
 </p>
 
 ---
