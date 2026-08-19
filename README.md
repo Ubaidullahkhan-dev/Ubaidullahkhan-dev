@@ -111,13 +111,37 @@ I started my programming journey with foundational programming and gradually dis
 <div align="center">
 
 <a href="https://github.com/Ubaidullahkhan-dev">
-<img src="https://github-readme-stats.vercel.app/api?username=Ubaidullahkhan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Statistics">
+<img
+  src="https://github-stats-extended.vercel.app/api?username=Ubaidullahkhan-dev&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="GitHub Statistics"
+/>
 </a>
 
-  
+<a href="https://github.com/Ubaidullahkhan-dev">
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ubaidullahkhan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="180"
+  alt="Top Languages"
+/>
+</a>
+
+</div>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
 
 <a href="https://github.com/Ubaidullahkhan-dev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaidullahkhan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages">
+
+<img
+src="https://streak-stats.demolab.com/?user=Ubaidullahkhan-dev&theme=tokyonight&hide_border=true"
+width="75%"
+alt="GitHub Contribution Streak"
+/>
+
 </a>
 
 </div>
@@ -130,9 +154,16 @@ I started my programming journey with foundational programming and gradually dis
 
 <a href="https://github.com/Ubaidullahkhan-dev">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ubaidullahkhan-dev&bg_color=0D1117&color=2EE88A&line=2EE88A&point=43D9FF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph">
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Ubaidullahkhan-dev&bg_color=0D1117&color=2EE88A&line=2EE88A&point=43D9FF&area=true&hide_border=true"
+width="95%"
+alt="GitHub Activity Graph"
+/>
 
 </a>
+
+</div>
+
 
 </div>
 
