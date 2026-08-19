@@ -132,19 +132,7 @@ I started my programming journey with foundational programming and gradually dis
 
 ## 🔥 GitHub Contribution Streak
 
-<div align="center">
-
-<a href="https://github.com/Ubaidullahkhan-dev">
-
-<img
-src="https://streak-stats.demolab.com/?user=Ubaidullahkhan-dev&theme=tokyonight&hide_border=true"
-width="75%"
-alt="GitHub Contribution Streak"
-/>
-
-</a>
-
-</div>
+<a href="http://www.github.com/Ubaidullahkhan-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaidullahkhan-dev&stroke=f97316&background=1c1917&ring=10b981&fire=10b981&currStreakNum=f97316&currStreakLabel=10b981&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
 ---
 
