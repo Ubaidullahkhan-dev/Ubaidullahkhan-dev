@@ -27,4 +27,4 @@ src="https://img.shields.io/github/followers/Ubaidullahkhan-dev?logo=github&styl
 <b>My GitHub Stats</b>
 
 
-<a href="http://www.github.com/Ubaidullahkhan-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaidullahkhan-dev&stroke=f97316&background=831843&ring=3382ed&fire=3382ed&currStreakNum=f97316&currStreakLabel=3382ed&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+<a href="http://www.github.com/Ubaidullahkhan-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaidullahkhan-dev&stroke=f97316&background=000080&ring=3382ed&fire=3382ed&currStreakNum=f97316&currStreakLabel=3382ed&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
