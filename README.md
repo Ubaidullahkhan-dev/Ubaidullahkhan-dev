@@ -1,32 +1,50 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ubaidullah Khan
-========================================================================================================================================
+# Hi 👋, My name is Ubaidullah Khan
+### Building Intelligent Systems with ML & DL
 
-Building Intelligent Systems with ML & DL
------------------------------------------
+I'm a passionate developer focused on Machine Learning and Deep Learning architectures, building smart, data-driven applications.
 
-I've been coding for a few years now, after switching from a non-tech background. I started with foundational programming, but have truly found my passion in the world of ML and Deep Learning architectures.
+---
 
-* 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [GitHub](http://github.com/Ubaidullahkhan-dev)
-* ✉️  You can contact me at [uu3513610@gmail.com](mailto:uu3513610@gmail.com)
-* 🧠  I'm currently learning Deep Learning and Advanced AI
-* 👥  I'm looking to collaborate on AI / ML Projects
-* 💬  Ask me about Always excited to solve complex problems and build smart data-driven applications.
+### 🌍 Connect with me:
+- ✉ **Email:** [uu3513610@gmail.com](mailto:uu3513610@gmail.com)
+- 💼 **LinkedIn:** [Ubaidullah Khan](https://linkedin.com) *(Update with your profile)*
+- 🖥 **Portfolio:** Based right here on GitHub!
+
+---
+
+### 🧠 Current Focus & Goals:
+- 🚀 Currently diving deeper into **Deep Learning and Advanced AI**.
+- 👥 Looking to collaborate on exciting **AI / ML Projects**.
+
+---
+
+### 🛠 Tech Stack & Tools:
+- **Languages:** `Python`, `Java`
+- **AI/ML Frameworks:** `TensorFlow`, `PyTorch`
+- **Databases & Tools:** `MySQL`, `VS Code`
+
+---
+
+### 📊 My GitHub Dynamic Stats:
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
+  <!-- GitHub Streak Stats Card (Navy Blue Theme) -->
+  <a href="http://github.com">
+    <img src="https://herokuapp.com" alt="Ubaidullahkhan's Streak Stats" height="170px"/>
+  </a>
+  
+  <!-- GitHub Top Languages Card (Matching Dark Navy Theme) -->
+  <a href="http://github.com">
+    <img src="https://vercel.app" alt="Ubaidullahkhan's Top Languages" height="170px"/>
+  </a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Ubaidullahkhan-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ubaid-ullah-7a051a352" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/Ubaidullahkhan-dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Ubaidullahkhan-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=831843" /></a>
+### 📁 Featured Repositories:
+1. ⚙️ **[Smart-AI-Timetable-Generator](https://github.com)** - Python based smart scheduling system.
+2. 🛡️ **[Cross-Temporal-Hybrid-NIDS](https://github.com)** - Network Intrusion Detection with Zero-Day Anomaly Detection.
+3. 🧪 **[Internship-AI-Lab-99](https://github.com)** - Core AI and ML experimental notebooks.
 
-
-<b>My GitHub Stats</b>
-
-
-<a href="http://www.github.com/Ubaidullahkhan-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaidullahkhan-dev&stroke=f97316&background=000080&ring=3382ed&fire=3382ed&currStreakNum=f97316&currStreakLabel=3382ed&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
-
-<a href="http://github.com"><img src="https://vercel.app" /></a>
+<br />
+<p align="center">⭐️ From Pakistan with passion for AI</p>
