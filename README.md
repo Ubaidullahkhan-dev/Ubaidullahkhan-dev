@@ -132,8 +132,7 @@ I started my programming journey with foundational programming and gradually dis
 
 ## 🔥 GitHub Contribution Streak
 
-<a href="http://github.com"><img src="https://demolab.com" /></a>
-
+<a href="http://www.github.com/Ubaidullahkhan-dev"><img src="https://demolab.com/?user=Ubaidullahkhan-dev&stroke=f97316&background=1c1917&ring=10b981&fire=10b981&currStreakNum=f97316&currStreakLabel=10b981&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
 
 ---
